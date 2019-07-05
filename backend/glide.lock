@@ -1,0 +1,13 @@
+hash: 3032c1ac272c9a7c8aceb048c83e50e3d97049c14eb500a82093b3566470c17b
+updated: 2019-07-05T11:00:29.728186Z
+imports:
+- name: github.com/gorilla/mux
+  version: d83b6ffe499a29cc05fc977988d0392851779620
+- name: github.com/xwb1989/sqlparser
+  version: 120387863bf27d04bc07db8015110a6e96d0146c
+  subpackages:
+  - dependency/bytes2
+  - dependency/hack
+  - dependency/querypb
+  - dependency/sqltypes
+testImports: []
